@@ -1,4 +1,10 @@
+/**
+ * Archivo: MetodoDeLaBurbuja.java
+ * @author juan diego
+ * @since 1/2/2017
+ */
 public class UsaMultiplicacion
+
 
   {                   // Abre clase UsaMultiplicacion
 
